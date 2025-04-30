@@ -1,4 +1,4 @@
-# 🏦 Credit Score Pipeline with Databricks (Community Edition)
+# 🏦 Credit Score Check Pipeline with Databricks (Community Edition)
 
 A complete, rule-based credit scoring project using PySpark and Delta Lake tables, implemented in a single notebook on Databricks Community Edition. Simulates a data engineering workflow with Bronze → Silver → Gold layers.
 
